@@ -16,5 +16,3 @@ This was the final project of the programming course at University. The aim was 
 
 * CRUD operations and its GUI.
 * GUI for server and client to comunicate with each other.
-
-## Usage
